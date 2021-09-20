@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=<Ad Screen>
+Comment=Start up when desktop is aktive
+Exec= python3 /home/pi/ad-screen/start.py
+StartupNotify=false
+Terminal=true
+Hidden=false

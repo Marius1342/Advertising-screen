@@ -1,0 +1,22 @@
+#Urls
+loginurl=https://exampel.com/login/
+showurl=https://exampel.com/ads/
+shutdownurl=https://exampel.com/shutdownurl/shutdown.txt
+
+#Login
+password=Your-Password
+username=Your-Username
+box-password=name-Tag-Html
+box-username=name-Tag-Html
+submite-button=name-Tag-Html
+Titel-Login=Titel-Of-Site#Must be static
+
+#Show Advertising advert
+Titel=Titel-Of-Site#Only set this if your title is static
+
+#System
+refreshtime=0.5#In Houers it refreshs every 0.5 houer 
+refresh=True
+shutdown=False
+cookie-banner=name-Tag-Html#if you dont have an cookie banner then dont touch it
+boot-delay=5#in seconds

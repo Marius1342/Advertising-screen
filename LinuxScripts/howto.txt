@@ -1,0 +1,2 @@
+replace the Your-Folder with your Folder
+then move this file into /home/pi/.config/autostart
