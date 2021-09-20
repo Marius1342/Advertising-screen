@@ -1,4 +1,4 @@
 In shutdown the format is 00:00
-Pleas use in the shutdown url an txt ending with the time only
+Please use in the shutdown url an txt ending with the time only
 
 
