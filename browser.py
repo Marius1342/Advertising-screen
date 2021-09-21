@@ -9,7 +9,8 @@ class Browser:
     def Show(self):
         self.run = True
         time_ = 0
-        self.Login()
+        if bool(self.config_['Login']) == True:
+            self.Login()
         self.CheckLoad()
         self.driver.get(self.config_['showurl'])
         # 3600 seconds == 1 Houer. It convert houers in seconds
