@@ -9,7 +9,7 @@ username=Your-Username
 box-password=name-Tag-Html
 box-username=name-Tag-Html
 submite-button=name-Tag-Html
-#If the System have to login 
+#If the System have not to login then set this to False
 Login=True
 Titel-Login=Titel-Of-Site#Must be static the Login site
 #Show Advertising advert
