@@ -78,6 +78,7 @@ __Sysntax:__
 - *box-username* the name html tag of the username field
 - *box-password* the name html tag of the password field
 - *submite-button* the name of the submite button
+- *Login* if set to True then the System Login in if it is False then it dont Login in 
 - *Titel-Login* the Login titel of the site it must be static
 - *Titel* set this to the advertisment site titel only set this if your site is static
 - *refreshtime* this is the time to refresh the page set this like a float like 1.5 the format is hour
