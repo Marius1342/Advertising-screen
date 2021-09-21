@@ -9,10 +9,11 @@ username=Your-Username
 box-password=name-Tag-Html
 box-username=name-Tag-Html
 submite-button=name-Tag-Html
-Titel-Login=Titel-Of-Site#Must be static
-
+#If the System have to login 
+Login=True
+Titel-Login=Titel-Of-Site#Must be static the Login site
 #Show Advertising advert
-Titel=Titel-Of-Site#Only set this if your title is static
+Titel=Titel-Of-Site#Only set this if your title is static the Advertising Site 
 
 #System
 refreshtime=0.5#In Houers it refreshs every 0.5 houer 
