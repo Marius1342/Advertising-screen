@@ -19,7 +19,7 @@ if os.name != 'nt':
         "cp "+path+"/LinuxScripts/autorunmyad2.desktop /home/pi/.config/autostart/autorunmyad.desktop")
     os.system("pip3 install -r "+str(path) +
               "/requirements.txt")
-    print("Edit the config.txt in /home/pi/ad-screen/ then reboot ")
+    print("Edit the config.txt in /home/pi/ad-screen/ then reboot \n if it doesn't work then type pip3 install selenium")
 else:
     print("You are using windows. Download pip and the chromium driver\n And change the config.txt")
     os.system("pip3 install -r "+str(path) +
