@@ -39,6 +39,7 @@ __WARNING only use intergers !!__
 - Dont forget to change the gpu memory in the settings it should be 256 or higer
 - Edit the /boot/config.txt and type *hdmi_force_hotplug=1* this will force the pi to start without an monitor
 - Then reboot and it is done 
+- If it doen't work then type *pip3 install selenium*
 
 ### Full Setup
 - Install the Rpi os
