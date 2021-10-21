@@ -7,6 +7,7 @@
     * ✅  Autostart up script
     * ✅  Automatic login
     * ✅  Inexpensive
+    
 __Written in Python and use Selenium__
 
 ## Setup with an Raspberry 3b
