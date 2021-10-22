@@ -12,6 +12,7 @@ class Browser:
         if self.config_['Login'] == "True":
             self.Login()
         self.CheckLoad()
+        self.AcceptCokkies()
         self.driver.get(self.config_['showurl'])
         # 3600 seconds == 1 Houer. It convert houers in seconds
         while self.run == self.run:
