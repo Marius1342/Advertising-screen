@@ -35,7 +35,6 @@ __Only use this if you have no other programs__
 - Change the the Swap file if you have only 2 or 1 gig type *sudo nano etc/dphys-swapfile* and change the *CONF_SWAPSIZE* varibel to the value currentMemory*2 example 1024mib memory then your swap should be 2048
 __WARNING only use integers !!__
 - Now you are ready change the *config.txt it is now in the folder /home/pi/ad-screen/config.txt*
-- Install the Chromium driver *sudo apt-get chromium-chromedriver -y*
 - Don't forget to change the gpu memory in the settings it should be 256 or higher
 - Edit the /boot/config.txt and type *hdmi_force_hotplug=1* this will force the pi to start without an monitor
 - Then reboot and it is done 
