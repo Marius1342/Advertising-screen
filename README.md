@@ -86,3 +86,6 @@ __Sysntax:__
 - *shutdown* if it set shutdown
 - *cookie-banner* if you have a cookie banner set this to your name Tag
 - *boot-delay* this delay is when your connection is bad then the program will wait (only integers)
+
+## Issues? Or help?
+### Please report them <a href="https://github.com/Marius1342/Advertising-screen/issues">here</a>
