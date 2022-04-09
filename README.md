@@ -2,7 +2,7 @@
 
 *Show Websites at autostart in full screen. Works with an Raspberry Pi 3b.*
 * Why this software
-    * ✅  Compatible with an Rpi 3b
+    * ✅  Compatible with an Rpi 3b and 4
     * ✅  Auto Shutdown on Linux Systems via Website data
     * ✅  Autostart up script
     * ✅  Automatic login
